@@ -1,0 +1,13 @@
+changes done in manifest
+verticalviewpager
+searchresultsactivity
+dbhandler
+
+added a
+menu res file
+searchable xml
+
+to do
+have implemented a getSearched function in db handler activity
+but a my sql query to search, couldn't implement in the php way wanted to
+also an error while searching couldn't figure out the solution
